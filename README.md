@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-- 😄 Pronouns: he/him/her
+- 😄 Pronouns: he/his/him
 - 🔭 I’m currently working at **Amazon** and [**PodCodar**](https://github.com/podcodar)
 - 🌱 I’m currently learning **Go** and **Deno**
 - 📫 How to reach me: https://www.linkedin.com/in/masouzajunior
