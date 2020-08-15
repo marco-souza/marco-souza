@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 
+
+- 😄 Pronouns: he/him/her
+- 🔭 I’m currently working at **Amazon** and [**PodCodar**](https://github.com/podcodar)
+- 🌱 I’m currently learning **Go** and **Deno**
+- 📫 How to reach me: https://www.linkedin.com/in/masouzajunior
+- ⚡ Fun fact: my cat's name is Alan Cathison Turing
+
 
 <!--
 **marco-souza/marco-souza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
