@@ -4,7 +4,7 @@
 - 🔭 I’m currently working at **Amazon** and [**PodCodar**](https://github.com/podcodar)
 - 🌱 I’m currently learning **Go** and **Deno**
 - 📫 How to reach me: https://www.linkedin.com/in/masouzajunior
-- ⚡ Fun fact: my cat's name is Alan Cathison Turing
+- ⚡ Fun fact: my cat's name is **Sir Alan Cathison Turing**
 
 
 <!--
