@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Go** and **Deno**
 - 💬 Ask me about **Python**, **GNU/Linux**, **Shell Script**, **Docker**, **JavaScript/TypeScript**, **React**, **Redux**, and most web technologies.
 - 📫 How to reach me: https://www.linkedin.com/in/masouzajunior
-- ⚡ Fun fact: my cat's name is **Sir Alan Cathison Turing**
+- ⚡ Fun fact: my cat's name is **Sir Alan Cathison Turing** 🐈
 
 
 <!--
