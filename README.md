@@ -3,7 +3,7 @@
 - 😄 Pronouns: he/his/him
 - 🔭 I’m currently working as SDE II at [**Amazon**](https://www.amazon.com.br) and mentoring new developers at [**PodCodar**](https://github.com/podcodar)
 - 🌱 I’m currently learning **Go** and **Deno**
-- 💬 Ask me about **Python**, **GNU/Linux**, **Shell Script**, **Docker**, **JavaScript**, **React**, **Redux**, and most web technologies.
+- 💬 Ask me about **Python**, **GNU/Linux**, **Shell Script**, **Docker**, **JavaScript/TypeScript**, **React**, **Redux**, and most web technologies.
 - 📫 How to reach me: https://www.linkedin.com/in/masouzajunior
 - ⚡ Fun fact: my cat's name is **Sir Alan Cathison Turing**
 
