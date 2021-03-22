@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React, JavaScript, Web development**
 
-- 📫 How to reach me **marco@podcodar.com**
+- 📫 How to reach me **marco@tremtec.com**
 
 - ⚡ Fun fact **My cat's name is Alan Cathison Turing**
 
