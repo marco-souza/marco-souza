@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Golang, Deno, TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://marco-souza.github.io](https://marco-souza.github.io)
+- 👨‍💻 All of my projects are available at [https://marco.tremtec.com](https://marco.tremtec.com)
 
 - 💬 Ask me about **React, JavaScript, Web development**
 
