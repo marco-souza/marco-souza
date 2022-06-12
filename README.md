@@ -1,17 +1,17 @@
 <h1 align="center">Yo 👋, I'm Marco Antônio</h1>
 <h3 align="center">A passionate Software and DevOps Engineer, cat lover, and mentor at <a href="https://github.com/podcodar/">PodCodar</a>.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marco-souza&label=Profile%20views&color=0e75b6&style=flat" alt="marco-souza" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=marco-souza&label=Profile%20views&color=0e75b6&style=flat" alt="marco-souza" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marco-souza" alt="marco-souza" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marco-souza" alt="marco-souza" /></a> </p>
 
 - 🔭 I’m currently working on [Paradigm](https://paradigm.co)
 
-- 🌱 I’m currently learning **Golang, Deno, TypeScript**
+- 🌱 I’m currently learning **Golang, Deno, TypeScript, and Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://marco.tremtec.com](https://marco.tremtec.com)
 
-- 💬 Ask me about **React, JavaScript, Web development**
+- 💬 Ask me about **Node.js, React, TypeScript, Web development**
 
 - 📫 How to reach me **marco@tremtec.com**
 
@@ -251,9 +251,6 @@
     src="https://github-readme-stats.vercel.app/api?username=marco-souza&show_icons=true&locale=en"
     alt="marco-souza"
   />
-</p>
-
-<p align="center">
   <img
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=marco-souza&"
