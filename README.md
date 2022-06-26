@@ -1,4 +1,4 @@
-<h1 align="center">Yo 👋, I'm Marco Antônio</h1>
+<h1 align="center">Yo 👋, I'm Marco</h1>
 <h3 align="center">A passionate Software and DevOps Engineer, cat lover, and mentor at <a href="https://github.com/podcodar/">PodCodar</a>.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=marco-souza&label=Profile%20views&color=0e75b6&style=flat" alt="marco-souza" /> </p>
