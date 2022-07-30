@@ -7,15 +7,14 @@
 
 - 🔭 I’m currently working on [Paradigm](https://paradigm.co)
 
-- 🌱 I’m currently learning **Golang, Deno, TypeScript, and Kubernetes**
+- 🌱 I’m currently learning **Golang, Deno, and Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://marco.tremtec.com](https://marco.tremtec.com)
 
-- 💬 Ask me about **Node.js, React, TypeScript, Web development**
+- 💬 Ask me about **Node.js, JavaScript, TypeScript, Web development**
 
 - 📫 How to reach me **marco@tremtec.com**
 
-- ⚡ Fun fact **My cat's name is Alan Cathison Turing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
