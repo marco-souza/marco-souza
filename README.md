@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at [Paradigm](https://paradigm.co)
 
-- 🌱 I’m learning **Rust, Deno, Kubernetes, Cloud Architecture**
+- 🌱 I’m learning **Rust, Deno and Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://marco.tremtec.com](https://marco.tremtec.com)
 
