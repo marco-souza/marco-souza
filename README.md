@@ -2,14 +2,11 @@
 <h3 align="center">A passionate Code Craftsman & Software Architect, cat daddy, and code mentor at <a href="https://github.com/podcodar/">PodCodar</a>.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=marco-souza&label=Profile%20views&color=0e75b6&style=flat" alt="marco-souza" /> </p>
+</p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marco-souza" alt="marco-souza" /></a> </p>
+- 🔭 I’m currently working at [TremTec](https://tremtec.com)
 
-- 🔭 I’m currently working at [Paradigm](https://paradigm.co)
-
-- 🌱 I’m learning **Rust, Deno and Kubernetes**
-
-- 👨‍💻 All of my projects are available at [https://marco.tremtec.com](https://marco.tremtec.com)
+- 🌱 I’m learning **Rust, Deno, Golang and Kubernetes**
 
 - 💬 Ask me about **TypeScript, JavaScript, Linux, Docker**
 
@@ -21,6 +18,7 @@
 <a href="https://twitter.com/bravodecodigo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bravodecodigo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/masouzajunior" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="masouzajunior" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/marco-ant%c3%b4nio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="marco-ant%c3%b4nio" height="30" width="40" /></a>
+<a href="https://github.com/marco-souza/resume/blob/main/RESUME.md" title="My Resume" target="blank"><img align="center" src="https://f.hubspotusercontent00.net/hubfs/2557900/Marketing%20Assets/Liongard%20Academy%20Files/lu-icon-resume.svg" alt="My Resume" height="30" width="40" /></a>
 </p>
 
 
