@@ -1,12 +1,12 @@
 <h1 align="center">Yo 👋, I'm Marco</h1>
-<h3 align="center">A passionate Code Craftsman & Software Architect, cat daddy, and code mentor at <a href="https://github.com/podcodar/">PodCodar</a>.</h3>
+<h3 align="center">A passionate Software Engineer, cat daddy, and code mentor at <a href="https://github.com/podcodar/">PodCodar</a>.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=marco-souza&label=Profile%20views&color=0e75b6&style=flat" alt="marco-souza" /> </p>
 </p>
 
-- 🔭 I’m currently working at [TremTec](https://tremtec.com)
+- 🔭 I’m currently providing services through [TremTec](https://tremtec.com)
 
-- 🌱 I’m learning **Rust, Deno, Golang and Kubernetes**
+- 🌱 I’m learning **Rust, Ansible and Kubernetes**
 
 - 💬 Ask me about **TypeScript, JavaScript, Linux, Docker**
 
