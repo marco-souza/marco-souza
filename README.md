@@ -4,13 +4,13 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=marco-souza&label=Profile%20views&color=0e75b6&style=flat" alt="marco-souza" /> </p>
 </p>
 
-- 🔭 I’m currently providing services through [TremTec](https://tremtec.com)
+- 🔭 I’m currently providing services through [**TremTec**](https://tremtec.com)
 
-- 🌱 I’m learning **Rust, Ansible and Kubernetes**
+- 🌱 I’m learning **Rust, Go, Ansible and Kubernetes**
 
 - 💬 Ask me about **TypeScript, JavaScript, Linux, Docker**
 
-- 📫 How to reach me **marco@tremtec.com**
+- 📫 You can reach me at [**marco@tremtec.com**](mailto://marco@tremtec.com)
 
 
 <h3 align="left">Connect with me:</h3>
