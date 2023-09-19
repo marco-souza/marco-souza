@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **TypeScript, JavaScript, Linux, Docker**
 
-- 📫 You can reach me at [**marco@tremtec.com**](mailto://marco@tremtec.com)
+- 📫 You can reach me at [**marco@tremtec.com**](mailto:marco@tremtec.com)
 
 
 <h3 align="left">Connect with me:</h3>
