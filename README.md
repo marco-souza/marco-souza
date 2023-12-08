@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently providing services through [**TremTec**](https://tremtec.com)
 
-- 🌱 I’m learning **Rust, Go, Ansible, lua, and Kubernetes**
+- 🌱 I’m learning **Rust, Go, Ansible, Lua, HTMX, and Kubernetes**
 
-- 💬 Ask me about **TypeScript, Web Dev, Linux, Docker, Neovim**
+- 💬 Ask me about **Web Dev, React, TypeScript, Linux, Docker, Neovim**
 
 - 📫 You can reach me at [**marco@tremtec.com**](mailto:marco@tremtec.com)
 
