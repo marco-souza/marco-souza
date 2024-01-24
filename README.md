@@ -22,8 +22,8 @@
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center" style="padding: 10rem;">
+<h3 align="left">Languages and Tools I like to use</h3>
+<p align="center">
   <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32" height="32" alt="TypeScript"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32" alt="JavaScript"></a>
   <a href="https://golang.org/" target="_blank" title="Golang"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="32" height="32" alt="Golang"></a>
