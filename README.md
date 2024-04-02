@@ -26,7 +26,7 @@
   
 </details>
 
-## Languages
+## Most used Languages
 [![My Skills](https://skillicons.dev/icons?i=go,ts,js,py,lua)]()
 
 ### Some experience with...
