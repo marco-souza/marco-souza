@@ -1,7 +1,9 @@
 <h1 align="center">Hello World 🌎, I'm Marco 👋</h1>
 <h3 align="center">A passionate Software Engineer, cat daddy, and code mentor at <a href="https://github.com/podcodar/">PodCodar</a>.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=marco-souza&label=Profile%20views&color=0e75b6&style=flat" alt="marco-souza" /> </p>
+<p align="center">
+  <a href="https://www.codementor.io/@masjr?refer=badge"><img src="https://www.codementor.io/m-badges/masjr/book-session.svg" alt="Codementor badge"></a>
+  <img src="https://komarev.com/ghpvc/?username=marco-souza&label=Profile%20views&color=0e75b6&style=flat" alt="marco-souza" />
 </p>
 
 - 🔭 I’m currently an experienced **Software Engineer** providing services through [**TremTec**](https://tremtec.com)
@@ -11,6 +13,7 @@
 - 💬 If you wan't to make me happy, let's chat about: **Linux, Neovim, Go, Rust, and Docker**
 
 - 📫 You can reach me at [**marco@tremtec.com**](mailto:marco@tremtec.com)
+
 
 <details align="center">
   <summary align="center">
@@ -46,3 +49,4 @@
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/masouzajunior)
 [![StackOverlfow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/7988674/marco-ant%c3%b4nio)
+[![Contact me on Codementor](https://www.codementor.io/m-badges/masjr/im-a-cm-b.svg)](https://www.codementor.io/@masjr?refer=badge)
