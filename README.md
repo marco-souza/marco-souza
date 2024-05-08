@@ -10,7 +10,7 @@
 
 - 🌱 I’m learning **Rust, Lua, HTMX, and Kubernetes**
 
-- 💬 If you wan't to make me happy, let's chat about: **Linux, Neovim, Go, Rust, and Docker**
+- 💬 If you want to make me happy, let's chat about: **Linux, Neovim, Go, Rust, and Docker**
 
 - 📫 You can reach me at [**marco@tremtec.com**](mailto:marco@tremtec.com)
 
@@ -33,7 +33,7 @@
 [![My Skills](https://skillicons.dev/icons?i=go,ts,js,py,lua)]()
 
 ### Some experience with...
-[![My Skills](https://skillicons.dev/icons?i=rust,c,java)]()
+[![My Skills](https://skillicons.dev/icons?i=rust,c,java,kotlin)]()
 
 ## Tools I like to work with...
 [![My Skills](https://skillicons.dev/icons?i=linux,git,github,neovim,bash)]()
