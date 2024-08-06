@@ -10,7 +10,7 @@
 
 - 🌱 I’m learning **Golang, Lua, HTMX, and Kubernetes**
 
-- 💬 If you want to make me happy, let's chat about: **Linux, Neovim, Go, Rust, and Docker**
+- 💬 If you want to make me happy, let's chat about **Linux, Neovim, Go, Kubernetes, and Docker**
 
 - 📫 You can reach me at [**marco@tremtec.com**](mailto:marco@tremtec.com)
 
@@ -30,7 +30,7 @@
 </details>
 
 ## Most used Languages
-[![My Skills](https://skillicons.dev/icons?i=go,ts,js,py,lua)]()
+[![My Skills](https://skillicons.dev/icons?i=go,ts,js,lua,py)]()
 
 ### Some experience with...
 [![My Skills](https://skillicons.dev/icons?i=rust,c,java,kotlin)]()
@@ -38,11 +38,11 @@
 ## Tools I like to work with...
 [![My Skills](https://skillicons.dev/icons?i=linux,git,github,neovim,bash)]()
 
-[![Front-end](https://skillicons.dev/icons?i=react,next,tailwind,jest,selenium)]()
+[![Front-end](https://skillicons.dev/icons?i=react,next,solidjs,tailwind,jest,selenium)]()
 
 [![Back-end](https://skillicons.dev/icons?i=deno,nodejs,nest,aws,terraform,ansible,docker,kubernetes)]()
 
-[![Storage](https://skillicons.dev/icons?i=postgres,dynamodb,kafka,redis,mongo,elasticsearch)]()
+[![Storage](https://skillicons.dev/icons?i=postgres,redis,dynamodb,mongo,sqlite,kafka,elasticsearch)]()
 
 
 ## Let's take a ☕️:
