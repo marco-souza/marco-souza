@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently an experienced **Software Engineer** providing services through [**TremTec**](https://tremtec.com)
 
-- 🌱 I’m learning **Golang, Lua, HTMX, and Kubernetes**
+- 🌱 I’m learning **Golang, Lua, and Kubernetes**
 
 - 💬 If you want to make me happy, let's chat about **Linux, Neovim, Go, Kubernetes, and Docker**
 
