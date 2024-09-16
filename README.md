@@ -1,12 +1,12 @@
 <h1 align="center">Hello World 🌎, I'm Marco 👋</h1>
-<h3 align="center">A passionate Software Engineer, cat daddy, and code mentor at <a href="https://github.com/podcodar/">PodCodar</a>.</h3>
+<h3 align="center">Software Engineer, Solutions Architect, cat daddy, and code mentor at <a href="https://github.com/podcodar/">PodCodar</a>.</h3>
 
 <p align="center">
   <a href="https://www.codementor.io/@masjr?refer=badge"><img src="https://www.codementor.io/m-badges/masjr/book-session.svg" alt="Codementor badge"></a>
   <img src="https://komarev.com/ghpvc/?username=marco-souza&label=Profile%20views&color=0e75b6&style=flat" alt="marco-souza" />
 </p>
 
-- 🔭 I’m currently an experienced **Software Engineer** providing services through [**TremTec**](https://tremtec.com)
+- 🔭 I’m currently an experienced **Software Engineer** providing services through [**TremTec**](https://tremtec.com) and working at [**MongoDB**](https://mongodb.com)
 
 - 🌱 I’m learning **Golang, Lua, and Kubernetes**
 
@@ -17,7 +17,7 @@
 
 <details align="center">
   <summary align="center">
-    <strong>Stats for Nerds 🤓</strong>
+    <u><strong>Stats for Nerds 🤓</strong></u>
   </summary>
 
 
@@ -45,7 +45,7 @@
 [![Storage](https://skillicons.dev/icons?i=postgres,redis,dynamodb,mongo,sqlite,kafka,elasticsearch)]()
 
 
-## Let's take a ☕️:
+## Let's have a ☕️:
 
 [![Contact me on Codementor](https://www.codementor.io/m-badges/masjr/im-a-cm-b.svg)](https://www.codementor.io/@masjr?refer=badge)
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/masouzajunior)
