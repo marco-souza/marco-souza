@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 🌎, I'm Marco 👋</h1>
-<h3 align="center">Software Engineer, Solutions Architect, cat daddy, and code mentor at <a href="https://github.com/podcodar/">PodCodar</a>.</h3>
+<h3 align="center"><em></en>Software Engineer, DevOps practitioner, and Open-Source enthusiast</em></h3>
 
 <p align="center">
   <a href="https://www.codementor.io/@masjr?refer=badge"><img src="https://www.codementor.io/m-badges/masjr/book-session.svg" alt="Codementor badge"></a>
@@ -10,12 +10,9 @@
 
 </p>
 
-- 🔭 I’m currently an experienced **Software Engineer** providing services through [**TremTec**](https://tremtec.com) and working at [**MongoDB**](https://mongodb.com)
-
+- 🔭 I’m currently a <u> **Senior Software Engineer** </u> working at [**MongoDB**](https://mongodb.com) as a [**Solutions Architect**](https://www.coursera.org/articles/solutions-architect)
 - 🌱 I’m learning **Golang, Lua, and Kubernetes**
-
-- 💬 If you want to make me happy, let's chat about **Linux, Neovim, Go, Kubernetes, and Docker**
-
+- 💬 If you want to make me happy, let's chat about **Linux, Neovim, Go, Lua, Kubernetes, and Docker**
 - 📫 You can reach me at [**marco@tremtec.com**](mailto:marco@tremtec.com)
 
 
