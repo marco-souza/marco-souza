@@ -13,7 +13,7 @@
 - 🔭 I’m currently a <u> **Senior Software Engineer** </u> working at [**MongoDB**](https://mongodb.com) as a [**Solutions Architect**](https://www.coursera.org/articles/solutions-architect)
 - 🌱 I’m learning **Golang, Lua, and Kubernetes**
 - 💬 If you want to make me happy, let's chat about **Linux, Neovim, Go, Lua, Kubernetes, and Docker**
-- 📫 You can reach me at [**marco@podcodar.org**](mailto:marco@podcodar.org)
+- 📫 You can reach me at [**marco@tremtec.com**](mailto:marco@tremtec.com)
 
 
 <details align="center">
