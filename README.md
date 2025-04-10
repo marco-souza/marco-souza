@@ -11,7 +11,8 @@
 </p>
 
 - 🔭 I’m currently a <u> **Senior Software Engineer** </u> working at [**MongoDB**](https://mongodb.com) as a [**Solutions Architect**](https://www.coursera.org/articles/solutions-architect)
-- 🌱 I’m learning **Golang, Lua, and Kubernetes**
+- 🌱 I’m learning **Lua, IaC, and Kubernetes**
+- ♥️ I don't hate `bun`, I like `deno`, and I love `go`
 - 💬 If you want to make me happy, let's chat about **Linux, Neovim, Go, Lua, Kubernetes, and Docker**
 - 📫 You can reach me at [**marco@tremtec.com**](mailto:marco@tremtec.com)
 
