@@ -11,7 +11,7 @@
 </p>
 
 - 🔭 I’m currently a <u> **Senior Software Engineer** </u> working as a **Solutions Architect** at [**MongoDB**](https://mongodb.com).
-- 🌱 I’m learning **Elixir, Erlang/OTP, and Gleam** - currently going through my Function Phase :)
+- 🌱 I’m learning **Elixir, Erlang/OTP, and Gleam** - currently going through my Functional Phase `f(x)`
 - ♥️ I love `go`, I like `deno`, and I don't hate `bun`
 - 💬 If you want to make me happy, let's chat about **Linux, Neovim, Go, Lua, Kubernetes, and Docker**
 - 📫 You can reach me at [**marco@tremtec.com**](mailto:marco@tremtec.com)
