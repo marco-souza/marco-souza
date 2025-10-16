@@ -10,25 +10,11 @@
 
 </p>
 
-- 🔭 **Sr Software Developer Engineer** working internally as a **Solutions Architect** at [**MongoDB**](https://mongodb.com)
+**Sr Software Developer Engineer** working internally as a **Solutions Architect** at [**MongoDB**](https://mongodb.com)
 - ♥️ I love `go`, `lua`, and `neovim`
 - 🌱 currently learning **`elixir`, `otp/erlang`, and `gleam`**
-- 💬 If you want to make me happy, let's chat about **Linux, Neovim, Go, Lua, Kubernetes, and Docker**
+- 💬 If you want to make me happy, let's chat about **Linux, Neovim, Docker, and LLM innovations**
 
-
-<details align="center">
-  <summary align="center">
-    <u><strong>Stats for Nerds 🤓</strong></u>
-  </summary>
-
-
-  [![Stats](https://github-readme-streak-stats.herokuapp.com?user=marco-souza&theme=tokyonight)](https://git.io/streak-stats)
-
-  [![Stats](https://github-readme-stats.vercel.app/api?username=marco-souza&show_icons=true&theme=github_dark&layout=compact)](https://github.com/marco-souza/github-readme-stats)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marco-souza&hide=coffeescript,jupyter%20notebook,CSS,html&exclude_repo=&langs_count=8&layout=compact&theme=github_dark)](https://github.com/marco-souza/github-readme-stats)
-  
-</details>
 
 ## Most used Languages
 [![My Skills](https://skillicons.dev/icons?i=go,ts,js,lua,py)]()
@@ -65,3 +51,17 @@
 [![Contact me on Codementor](https://www.codementor.io/m-badges/masjr/im-a-cm-b.svg)](https://www.codementor.io/@masjr?refer=badge)
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/masouzajunior)
 [![StackOverlfow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/7988674/marco-ant%c3%b4nio)
+
+<details align="center">
+  <summary align="center">
+    <u><strong>Stats for Nerds 🤓</strong></u>
+  </summary>
+
+
+  [![Stats](https://github-readme-streak-stats.herokuapp.com?user=marco-souza&theme=tokyonight)](https://git.io/streak-stats)
+
+  [![Stats](https://github-readme-stats.vercel.app/api?username=marco-souza&show_icons=true&theme=github_dark&layout=compact)](https://github.com/marco-souza/github-readme-stats)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marco-souza&hide=coffeescript,jupyter%20notebook,CSS,html&exclude_repo=&langs_count=8&layout=compact&theme=github_dark)](https://github.com/marco-souza/github-readme-stats)
+  
+</details>
