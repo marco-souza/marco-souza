@@ -13,7 +13,7 @@
 **Sr Software Developer Engineer** working internally as a **Solutions Architect** at [**MongoDB**](https://mongodb.com)
 - ♥️ I love `go`, `lua`, and `neovim`
 - 🌱 currently learning **`elixir`, `otp/erlang`, and `gleam`**
-- 💬 If you want to make me happy, let's chat about **Linux, Neovim, Docker, and LLM innovations**
+- 💬 If you want to make me happy, let's chat about **Linux, Neovim, Containers, and LLM innovations**
 
 
 ## Most used Languages
