@@ -48,7 +48,6 @@
 
 ## Let's have a ☕️:
 
-[![Contact me on Codementor](https://www.codementor.io/m-badges/masjr/im-a-cm-b.svg)](https://www.codementor.io/@masjr?refer=badge)
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/masouzajunior)
 [![StackOverlfow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/7988674/marco-ant%c3%b4nio)
 
