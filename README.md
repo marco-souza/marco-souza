@@ -2,20 +2,21 @@
 
 **Sr Software Engineer** working as **Solutions Architect** [**@MongoDB**](https://mongodb.com)
 - ♥️ I love `go`, `lua`, and `neovim`
-- 🌱 currently learning **`elixir` and `odin`**
+- 🌱 Currently learning **`elixir` and `odin`**
 - 💬 If you want to make me happy, let's chat about **Linux, Neovim, Containers, and LLM innovations**
 
 
-## Most used Languages
-[![My Skills](https://skillicons.dev/icons?i=go,ts,js,lua,py)]()
+## Programming languages I use
 
-### Also have experience with
-[![My Skills](https://skillicons.dev/icons?i=elixir,zig,rust,kotlin,java,c)]()
-
+Languages | Tier
+--- | ---
+[![S-Tier](https://skillicons.dev/icons?i=go,ts,js)]() | S-Tier - daily usage
+[![A-Tier](https://skillicons.dev/icons?i=java,kotlin,py,lua)]() | A-Tier - professional exp with
+[![B-Tier](https://skillicons.dev/icons?i=elixir,rust,zig)]() | B-Tier - no professional exp yet
 
 <details>
   <summary>
-    Other Tools I work with
+    Other Tools I use
   </summary>
 
   [![My Skills](https://skillicons.dev/icons?i=linux,git,github,neovim,bash)]()
