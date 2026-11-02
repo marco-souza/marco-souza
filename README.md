@@ -1,14 +1,6 @@
-<h1 align="center">Hello World 🌎, I'm Marco 👋</h1>
-<h3 align="center"><em></en>Software Engineer, DevOps and Open-Source enthusiast</em></h3>
+# Hello World 🌎, I'm Marco 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=marco-souza&label=Profile%20views&color=0e75b6&style=flat" alt="marco-souza" />
-    <a href="https://stackoverflow.com/users/7988674/marco-antônio">
-    <img alt="stackoverflow" src="https://img.shields.io/stackexchange/stackoverflow/r/7988674?style=flat&logo=stackoverflow&label=reputation&color=orange">
-  </a>
-</p>
-
-**Sr Software Developer Engineer** working internally as a **Solutions Architect** at [**MongoDB**](https://mongodb.com)
+**Sr Software Engineer** working as **Solutions Architect** [**@MongoDB**](https://mongodb.com)
 - ♥️ I love `go`, `lua`, and `neovim`
 - 🌱 currently learning **`elixir`, `otp/erlang`, and `gleam`**
 - 💬 If you want to make me happy, let's chat about **Linux, Neovim, Containers, and LLM innovations**
@@ -43,6 +35,10 @@
     Stats for Nerds 🤓
   </summary>
 
+  <img src="https://komarev.com/ghpvc/?username=marco-souza&label=Profile%20views&color=0e75b6&style=flat" alt="marco-souza" />
+    <a href="https://stackoverflow.com/users/7988674/marco-antônio">
+    <img alt="stackoverflow" src="https://img.shields.io/stackexchange/stackoverflow/r/7988674?style=flat&logo=stackoverflow&label=reputation&color=orange">
+  </a>
 
   [![Stats](https://github-readme-streak-stats.herokuapp.com?user=marco-souza&theme=tokyonight)](https://git.io/streak-stats)
   
