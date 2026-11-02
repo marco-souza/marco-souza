@@ -1,6 +1,6 @@
 # Hello World 🌎 - I'm Marco 👋
 
-I design, implement, and release systems at [**@MongoDB**](https://mongodb.com)
+I design, implement, and deploy production-grade systems at [**@MongoDB**](https://mongodb.com)
 
 - 👨🏻‍🔧 I work daily with `TypeScript` and `Kubernetes`
 - ♥️ I love `go`, `lua`, and `neovim`
