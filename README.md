@@ -1,15 +1,16 @@
-# Hello World 🌎, I'm Marco 👋
+# Hello World 🌎 - I'm Marco 👋
 
-**Sr Software Engineer** working as **Solutions Architect** [**@MongoDB**](https://mongodb.com)
+I design, implement, and release systems at [**@MongoDB**](https://mongodb.com)
+
+- 👨🏻‍🔧 I work daily with `TypeScript` and `Kubernetes`
 - ♥️ I love `go`, `lua`, and `neovim`
 - 🌱 Currently learning **`elixir` and `odin`**
-- 💬 If you want to make me happy, let's chat about **Linux, Neovim, Containers, and LLM innovations**
 
 ## Let's have a ☕️:
 
+[![My Website](https://skillicons.dev/icons?i=bash)](https://m3o.sh)
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/masouzajunior)
 [![StackOverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/7988674/marco-ant%c3%b4nio)
-
 
 <details>
   <summary>
