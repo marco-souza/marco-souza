@@ -5,18 +5,28 @@
 - 🌱 Currently learning **`elixir` and `odin`**
 - 💬 If you want to make me happy, let's chat about **Linux, Neovim, Containers, and LLM innovations**
 
+## Let's have a ☕️:
 
-## Programming languages I use
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/masouzajunior)
+[![StackOverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/7988674/marco-ant%c3%b4nio)
 
-Languages | Tier
---- | ---
-[![S-Tier](https://skillicons.dev/icons?i=go,ts,js)]() | S-Tier - daily usage
-[![A-Tier](https://skillicons.dev/icons?i=java,kotlin,py,lua)]() | A-Tier - professional exp with
-[![B-Tier](https://skillicons.dev/icons?i=elixir,rust,zig)]() | B-Tier - no professional exp yet
 
 <details>
   <summary>
-    Other Tools I use
+    👾 Programming languages
+  </summary>
+
+  Languages | Tier
+  --- | ---
+  [![S-Tier](https://skillicons.dev/icons?i=go,ts,js)]() | S-Tier - daily usage
+  [![A-Tier](https://skillicons.dev/icons?i=java,kotlin,py,lua)]() | A-Tier - professional exp with
+  [![B-Tier](https://skillicons.dev/icons?i=elixir,rust,zig)]() | B-Tier - no professional exp yet
+  
+</details>
+
+<details>
+  <summary>
+    ⚒️ Tools I enjoy working with
   </summary>
 
   [![My Skills](https://skillicons.dev/icons?i=linux,git,github,neovim,bash)]()
@@ -25,15 +35,15 @@ Languages | Tier
   
   [![Storage](https://skillicons.dev/icons?i=mongodb,sqlite,postgres,redis,dynamodb,kafka,elasticsearch)]()
   
-  [![Front-end](https://skillicons.dev/icons?i=figma,vite,solidjs,tailwind,jest)]()
+  [![Front-end](https://skillicons.dev/icons?i=vite,vitest,solidjs,tailwind,figma,astro,jest)]()
   
-  [![Front-end](https://skillicons.dev/icons?i=deno,bun,nodejs,react,nextjs,nestjs,selenium)]()
+  [![Front-end](https://skillicons.dev/icons?i=deno,bun,nodejs,react,nextjs,nestjs,hono)]()
   
 </details>
 
 <details>
   <summary>
-    Stats for Nerds 🤓
+    🤓 Stats for Nerds
   </summary>
 
   <img src="https://komarev.com/ghpvc/?username=marco-souza&label=Profile%20views&color=0e75b6&style=flat" alt="marco-souza" />
@@ -46,7 +56,4 @@ Languages | Tier
 </details>
 
 
-## Let's have a ☕️:
 
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/masouzajunior)
-[![StackOverlfow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/7988674/marco-ant%c3%b4nio)
