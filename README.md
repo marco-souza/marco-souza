@@ -2,14 +2,14 @@
 
 **Sr Software Engineer** working as **Solutions Architect** [**@MongoDB**](https://mongodb.com)
 - ♥️ I love `go`, `lua`, and `neovim`
-- 🌱 currently learning **`elixir`, `otp/erlang`, and `gleam`**
+- 🌱 currently learning **`elixir` and `odin`**
 - 💬 If you want to make me happy, let's chat about **Linux, Neovim, Containers, and LLM innovations**
 
 
 ## Most used Languages
 [![My Skills](https://skillicons.dev/icons?i=go,ts,js,lua,py)]()
 
-### Also have some experience with
+### Also have experience with
 [![My Skills](https://skillicons.dev/icons?i=elixir,zig,rust,kotlin,java,c)]()
 
 
